@@ -3,17 +3,17 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Hexo
-subtitle:
-description:
-keywords:
-author: John Doe
-language:
+title: liuliaixue
+subtitle: 当白云悠然褪去我已等不及登上高山仰望西方的天空但最美的不是夕阳是夜色如水月色流离 
+description: 
+keywords: blog 
+author: Alan
+language: 
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://yoursite.com
+url: http://liuliaixue.top
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
