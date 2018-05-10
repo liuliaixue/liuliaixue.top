@@ -1,3 +1,11 @@
+---
+title: ajax request
+tags: ajax XMLHttpRequest
+---
+
+
+
+```
 <script type="text/javascript">
     function loadXMLDoc() {
         var xmlhttp;
@@ -30,3 +38,4 @@
     }
 
 </script>
+```

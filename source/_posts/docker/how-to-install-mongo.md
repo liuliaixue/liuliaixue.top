@@ -66,3 +66,6 @@ docker cp mycontainer：/opt/testnew/file.txt /opt/test/
 docker cp /opt/test/file.txt mycontainer：/opt/testnew/
 
 sudo docker cp /home/liuli/backup/dump/* cn-prod:/dump
+
+sudo docker cp 2a1296fae066:/data/db /home/ubuntu/mongo-backup/04-23-2018-empty
+sudo docker cp /home/ubuntu/mongo-backup/12-21-2017/* 2a1296fae066:/data/db

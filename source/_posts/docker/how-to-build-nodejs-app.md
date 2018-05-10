@@ -1,11 +1,23 @@
+---
+title: how to build image
+date:
+tags: docker 
+---
+
+# files
+
+hello-world/
+  ├── Dockerfile
+  ├── index.js
+  ├── package.json
 
 ## Dockerfile
-It is based on your net environment, mine t
+
 ```
-FROM node:carbon
+FROM node:8-alpine
 
 # Create app directory
-WORKDIR /usr/src/app
+WORKDIR /home/hello-world
 
 # Install app dependencies
 # A wildcard is used to ensure both package.json AND package-lock.json are copied
@@ -26,3 +38,10 @@ CMD [ "npm", "start" ]
 
 ref:https://nodejs.org/en/docs/guides/nodejs-docker-webapp/
 
+## index.js
+## server.js
+
+# build
+```
+sudo docker build -t liuliaixue/nodejs-hello-world .
+```
