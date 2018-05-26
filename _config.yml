@@ -8,7 +8,7 @@ subtitle: 当白云悠然褪去我已等不及登上高山仰望西方的天空�
 description: 
 keywords: blog 
 author: Alan
-language: zh-CN
+language: zh-Hans
 timezone:
 
 # URL
@@ -73,7 +73,7 @@ pagination_dir: page
 # Extensions
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
-theme: landscape
+theme: next
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
