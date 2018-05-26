@@ -1,7 +1,7 @@
 ---
 title: linux定时任务
 date: 2018-05-01
-tags:  linux 定时任务 ubuntu cron crontab
+tags:  [linux, 定时任务, ubuntu, cron, crontab]
 ---
 
 

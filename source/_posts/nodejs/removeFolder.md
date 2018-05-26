@@ -1,3 +1,10 @@
+---
+title: nodejs remove folder
+date: 2018-05-1 17:21:51
+tags: [nodejs, remove folder ]
+---
+
+```
 const fs = require('fs');
 const path = require('path')
 const folder = '/tmp/ttcc';
@@ -19,3 +26,5 @@ if(1){
   fs.unlinkSync(filename);
   fs.rmdirSync(folder)
 }
+
+```

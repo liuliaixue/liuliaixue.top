@@ -1,3 +1,9 @@
+---
+title: git merge --squash
+date: 2017-09-11 17:21:51
+tags: [git, git merge, git mrege --squash]
+---
+
 1.直接合并(straight merge)：
 
 　　把两条分支上的历史轨迹合并，交汇到一起。

@@ -1,7 +1,7 @@
 ---
-title: apply and call
+title: javascript apply and call
 date: 2017-09-11 17:21:51
-tags: apply call
+tags: [js, javascript, apply, call]
 ---
 
 

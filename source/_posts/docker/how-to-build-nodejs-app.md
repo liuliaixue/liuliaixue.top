@@ -1,6 +1,6 @@
 ---
 title: how to build image
-date:
+date: 
 tags: docker 
 ---
 

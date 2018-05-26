@@ -1,8 +1,7 @@
-
 ---
 title: node require需要注意的缓存问题
 date: 2017-09-18 17:21:51
-tags: nodejs node require
+tags: [nodejs, require, require cache]
 ---
 
 require 会优先从cache中读取文件

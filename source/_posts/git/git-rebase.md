@@ -1,3 +1,9 @@
+---
+title: git rebase
+date: 2017-09-11 17:21:51
+tags: [git, git rebase]
+---
+
 git rebase 
 
 git rebase 是用来合并分支的。会把当前分支的提交作为补丁，一个一个应用在作为base的分支上面。

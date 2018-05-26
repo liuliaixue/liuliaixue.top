@@ -1,3 +1,9 @@
+---
+title: bootbox   
+date: 2018-05-1 17:21:51
+tags: [bootbox, frontent, confirm dialog ]
+---
+
 ```
 var confirmBox = function() {
     bootbox.confirm({

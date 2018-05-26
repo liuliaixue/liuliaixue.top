@@ -1,3 +1,8 @@
+---
+title: docker postgres installation
+date: 
+tags: [docker, install postgres] 
+---
 
 ## postgres
 ```

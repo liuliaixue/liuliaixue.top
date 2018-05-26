@@ -1,7 +1,7 @@
 ---
 title: Ubuntu中，如何删除编译安装的node？
 date: 2017-09-18 17:21:51
-tags: nodejs node 
+tags: [nodejs, nodejs installation ]
 ---
 
 

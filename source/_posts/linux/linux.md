@@ -1,3 +1,9 @@
+---
+title: linux下常用命令 
+date: 2018-05-1 17:21:51
+tags: [linux, chmod, vscode.deb, node, tar]
+---
+
 # linux 查看命令所在目录
 ```
 whereis git

@@ -1,3 +1,9 @@
+---
+title: git log
+date: 2017-09-11 17:21:51
+tags: [git, git log, git log tree, git tree]
+---
+
 git tree
 
 新建git tree命令来显示commit 树状图

@@ -1,3 +1,8 @@
+---
+title:  JSON
+date: 2018-05-1 17:21:51
+tags: [javascript, JSON, JSON.parse, JSON.stringify ]
+---
 JSON.parse()和JSON.stringify()使用介绍
 
 

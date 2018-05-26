@@ -1,3 +1,9 @@
+---
+title: angular infector
+date: 2017-09-11 17:21:51
+tags: [angular, infector, angular infector]
+---
+```
 var  angular = {};
 angular.services = {};
 angular.factory = function(serviceName,store){
@@ -43,3 +49,4 @@ angular.controller("infectorUser",infectorUser);
   //   throw service + " not definded"
   // });
   // return infector.apply(this,arg)
+```

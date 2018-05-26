@@ -1,3 +1,8 @@
+---
+title: linux 实用命令
+date: 
+tags: [linux 实用命令, vi, mkdir, rm] 
+---
 
 # linux 命令行常用命令
 

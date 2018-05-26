@@ -1,3 +1,9 @@
+---
+title: mongo游标
+date: 2018-05-1 17:21:51
+tags: [linux, mongo, mongo cursor]
+---
+
 ## mongodb 游标
 在查询mongodb时， 有时需要 遍历 **整个** collection或者 批处理**大量**的数据，用普通的find()会消耗大量内存且不便于操作
 

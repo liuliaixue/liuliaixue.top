@@ -1,7 +1,7 @@
 ---
 title: ansible-vault
 date: 2018-03-01
-tags: ubuntu encrypt tool
+tags: [linux, encrypt, tool, vault]
 ---
 
 ```

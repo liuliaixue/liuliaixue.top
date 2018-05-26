@@ -1,4 +1,8 @@
-
+---
+title: how to install deb package
+date: 2018-05-1 17:21:51
+tags: [linux, dpkg, .deb, vscode.deb, slack.deb, uninstall deb]
+---
 
 # vscode deb
 

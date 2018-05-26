@@ -1,4 +1,10 @@
-# converter突然连接不上rabbitMQ ？
+---
+title: converter突然连接不上rabbitMQ ？
+date: 2018-05-1 17:21:51
+tags: [nodejs, rabbitMQ]
+---
+
+
 
 安装rabbitMQ后，以服务的方式启动（开机启动），某些时候回出现converter连接不上的问题
 

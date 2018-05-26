@@ -1,3 +1,9 @@
+---
+title: nodejs sleep
+date: 2018-05-1 17:21:51
+tags: [nodejs, sleep, async/await promise]
+---
+
 const tag = '[sleep.js]';
 
 const sleepFn = async (ms) => {

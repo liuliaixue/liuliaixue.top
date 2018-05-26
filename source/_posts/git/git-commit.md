@@ -1,3 +1,10 @@
+---
+title: git commit 
+date: 2017-09-11 17:21:51
+tags: [git, git commit, git commit --amend]
+---
+
+#
 git commit 
 
 ```

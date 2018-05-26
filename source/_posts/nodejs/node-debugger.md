@@ -1,7 +1,7 @@
 ---
 title: node debugger
 date: 2017-09-11 17:21:51
-tags: node debugger inspect
+tags: [node, debugger,node inspect]
 ---
 
 #

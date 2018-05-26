@@ -1,3 +1,8 @@
+---
+title: mysql
+date: 
+tags: [docker, install mysql, mysql:5.6] 
+---
 
 ## mysql
 

@@ -1,7 +1,7 @@
 ---
 title: js继承
 date: 2017-09-11 17:21:51
-tags: js继承 class call/apply
+tags: [js,继承, class, call/apply]
 ---
 
 ```

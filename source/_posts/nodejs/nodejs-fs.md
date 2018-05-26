@@ -1,3 +1,8 @@
+---
+title: nodejs file system
+date: 2018-05-1 17:21:51
+tags: [nodejs, fs]
+---
 fs
 
 ## 创建文件夹
@@ -48,7 +53,3 @@ test();
 
 module.exports = test;
 ```
-
-## 读取文件
-## 复制文件
-## 移动文件

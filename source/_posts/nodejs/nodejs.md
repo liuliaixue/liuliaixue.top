@@ -1,3 +1,9 @@
+---
+title: 深入浅出node.js笔记
+date: 2016-10-1 17:21:51
+tags: [nodejs, 深入浅出node.js]
+---
+
 # 深入浅出node.js
 
 ## 第一章 Node简介
