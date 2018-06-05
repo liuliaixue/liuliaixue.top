@@ -1,7 +1,7 @@
 ---
-title: how to build image
+title: Docker:how to build image
 date: 
-tags: docker 
+tags: [docker, hello-world ]
 ---
 
 # files

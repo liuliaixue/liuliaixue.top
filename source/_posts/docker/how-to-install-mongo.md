@@ -1,6 +1,6 @@
 ---
-title:  Docker:how to install mongo
-date: 2017-09-11 17:21:51
+title:  Docker:mongo
+date: 2018-06-5 17:21:51
 tags: [docker, mongo]
 ---
 

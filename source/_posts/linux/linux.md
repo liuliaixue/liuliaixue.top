@@ -1,7 +1,7 @@
 ---
 title: linux下常用命令 
 date: 2018-05-1 17:21:51
-tags: [linux, chmod, vscode.deb, node, tar]
+tags: [linux, chmod, vscode.deb, nodejs, tar]
 ---
 
 # linux 查看命令所在目录
@@ -52,11 +52,6 @@ export PATH=$NODE_HOME/bin:$PATH
 ```
 
 
-# ubuntu 16.04 
-安装 vitualBox 需要先安装
-1.libsdl1.2debian(libsdl1.2debian is not installed)
-2.libvpx
-
 # linux 查看自己是否被 ping
 ```
  # view ip
@@ -73,7 +68,9 @@ ssh <name>@<ip>
 https://docs.docker.com/engine/installation/linux/docker-ce/ubuntu/
 
 # tar.gz & tar.bz2
-.tar.gz            
+```
+#.tar.gz            
 tar   -zxvf   xx.tar.gz
-.tar.bz2           
+#.tar.bz2           
 tar   -jxvf    xx.tar.bz2
+```
