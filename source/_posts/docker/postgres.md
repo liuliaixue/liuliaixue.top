@@ -25,8 +25,12 @@ postgres=# \c DB_NAME
 ```
 
 ## useful command
+
+```
 sudo docker run --name postgres-tim -e POSTGRES_USER=timqian -p 5432:5432 -d postgres
 psql -f ./tools/initDB.sql
 select * from model_prop_log;
 
 psql -U timqian -h 127.0.0.1 -p 5432 [-f initDB]
+
+```
